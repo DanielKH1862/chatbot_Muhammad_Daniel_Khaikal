@@ -1,0 +1,15 @@
+{
+  "id": "84fe1ee7-7250-456c-9312-ee0738fb53f8",
+  "title": "halo, nama kamu siapa?",
+  "timestamp": "2025-11-18T14:48:48.391905",
+  "messages": [
+    {
+      "role": "user",
+      "content": "halo, nama kamu siapa?"
+    },
+    {
+      "role": "ai",
+      "content": "Halo! Saya adalah model bahasa yang besar, dilatih oleh Google."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "6b20bb30-0c77-4512-a533-e0844cb15839",
+  "title": "halo, gemini",
+  "timestamp": "2025-11-18T14:29:45.275942",
+  "messages": [
+    {
+      "role": "user",
+      "content": "halo, gemini"
+    },
+    {
+      "role": "ai",
+      "content": "Halo juga! Ada yang bisa saya bantu?"
+    }
+  ]
+}
